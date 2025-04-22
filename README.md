@@ -4,8 +4,8 @@
 Ejecuta los siguientes comandos para configurar tu usuario y correo dentro de tu equipo personal o en firebase studio usando la terminal:
 
 ```bash
-$ git config --global user.name "mergutm"
-$ git config --global user.email "merg@gs.utm.mx"
+$ git config --global user.name "Perezcortes"
+$ git config --global user.email "peca021105@gs.utm.mx"
 ```
 
 ```bash
