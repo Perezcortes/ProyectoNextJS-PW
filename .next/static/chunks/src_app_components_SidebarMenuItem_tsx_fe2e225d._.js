@@ -1,4 +1,4 @@
-(globalThis.TURBOPACK = globalThis.TURBOPACK || []).push(["static/chunks/src_app_components_SidebarMenuItem_tsx_fe2e225d._.js", {
+(globalThis.TURBOPACK = globalThis.TURBOPACK || []).push([typeof document === "object" ? document.currentScript : undefined, {
 
 "[project]/src/app/components/SidebarMenuItem.tsx [app-client] (ecmascript)": ((__turbopack_context__) => {
 "use strict";

@@ -22,6 +22,30 @@ const menuItems = [
     title: 'Jugetes',
     subTitle: 'Client Side'
   },
+  {
+    path: '/dashboard/toy',
+    icon: <IoCalculator size={40} />,
+    title: 'Toys',
+    subTitle: 'Pokemones'
+  },
+  {
+    path: '/dashboard/pokemonv1',
+    icon: <IoCalculator size={40} />,
+    title: 'Pokemonv1',
+    subTitle: 'Pokemones'
+  },
+  {
+    path: '/dashboard/pokv2',
+    icon: <IoCalculator size={40} />,
+    title: 'Pokemonv2',
+    subTitle: 'Pokemones'
+  },
+  {
+    path: '/dashboard/pokemonlista',
+    icon: <IoCalculator size={40} />,
+    title: 'Lista',
+    subTitle: 'varios'
+  }
 ]
 
 

@@ -90,6 +90,54 @@ const menuItems = [
         }, this),
         title: 'Jugetes',
         subTitle: 'Client Side'
+    },
+    {
+        path: '/dashboard/toy',
+        icon: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2d$icons$2f$io5$2f$index$2e$mjs__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["IoCalculator"], {
+            size: 40
+        }, void 0, false, {
+            fileName: "[project]/src/app/components/Sidebar.tsx",
+            lineNumber: 27,
+            columnNumber: 11
+        }, this),
+        title: 'Toys',
+        subTitle: 'Pokemones'
+    },
+    {
+        path: '/dashboard/pokemonv1',
+        icon: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2d$icons$2f$io5$2f$index$2e$mjs__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["IoCalculator"], {
+            size: 40
+        }, void 0, false, {
+            fileName: "[project]/src/app/components/Sidebar.tsx",
+            lineNumber: 33,
+            columnNumber: 11
+        }, this),
+        title: 'Pokemonv1',
+        subTitle: 'Pokemones'
+    },
+    {
+        path: '/dashboard/pokv2',
+        icon: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2d$icons$2f$io5$2f$index$2e$mjs__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["IoCalculator"], {
+            size: 40
+        }, void 0, false, {
+            fileName: "[project]/src/app/components/Sidebar.tsx",
+            lineNumber: 39,
+            columnNumber: 11
+        }, this),
+        title: 'Pokemonv2',
+        subTitle: 'Pokemones'
+    },
+    {
+        path: '/dashboard/pokemonlista',
+        icon: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2d$icons$2f$io5$2f$index$2e$mjs__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["IoCalculator"], {
+            size: 40
+        }, void 0, false, {
+            fileName: "[project]/src/app/components/Sidebar.tsx",
+            lineNumber: 45,
+            columnNumber: 11
+        }, this),
+        title: 'Lista',
+        subTitle: 'varios'
     }
 ];
 const Sidebar = ()=>{
@@ -111,14 +159,14 @@ const Sidebar = ()=>{
                                 className: "mr-2"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/components/Sidebar.tsx",
-                                lineNumber: 38,
+                                lineNumber: 62,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                 children: " Dash"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/components/Sidebar.tsx",
-                                lineNumber: 39,
+                                lineNumber: 63,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -126,14 +174,14 @@ const Sidebar = ()=>{
                                 children: "8"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/components/Sidebar.tsx",
-                                lineNumber: 40,
+                                lineNumber: 64,
                                 columnNumber: 11
                             }, this),
                             "."
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/components/Sidebar.tsx",
-                        lineNumber: 37,
+                        lineNumber: 61,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -141,13 +189,13 @@ const Sidebar = ()=>{
                         children: "Manage your actions and activities"
                     }, void 0, false, {
                         fileName: "[project]/src/app/components/Sidebar.tsx",
-                        lineNumber: 42,
+                        lineNumber: 66,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/components/Sidebar.tsx",
-                lineNumber: 36,
+                lineNumber: 60,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -159,7 +207,7 @@ const Sidebar = ()=>{
                         children: "Bienvenido,"
                     }, void 0, false, {
                         fileName: "[project]/src/app/components/Sidebar.tsx",
-                        lineNumber: 47,
+                        lineNumber: 71,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
@@ -175,12 +223,12 @@ const Sidebar = ()=>{
                                     height: 50
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/components/Sidebar.tsx",
-                                    lineNumber: 50,
+                                    lineNumber: 74,
                                     columnNumber: 13
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/src/app/components/Sidebar.tsx",
-                                lineNumber: 49,
+                                lineNumber: 73,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -188,19 +236,19 @@ const Sidebar = ()=>{
                                 children: "Tiendita de Juguetes"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/components/Sidebar.tsx",
-                                lineNumber: 57,
+                                lineNumber: 81,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/components/Sidebar.tsx",
-                        lineNumber: 48,
+                        lineNumber: 72,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/components/Sidebar.tsx",
-                lineNumber: 46,
+                lineNumber: 70,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -210,18 +258,18 @@ const Sidebar = ()=>{
                         ...item
                     }, item.path, false, {
                         fileName: "[project]/src/app/components/Sidebar.tsx",
-                        lineNumber: 68,
+                        lineNumber: 92,
                         columnNumber: 15
                     }, this))
             }, void 0, false, {
                 fileName: "[project]/src/app/components/Sidebar.tsx",
-                lineNumber: 64,
+                lineNumber: 88,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/src/app/components/Sidebar.tsx",
-        lineNumber: 31,
+        lineNumber: 55,
         columnNumber: 5
     }, this);
 };
@@ -232,6 +280,7 @@ const Sidebar = ()=>{
 var { g: global, __dirname } = __turbopack_context__;
 {
 __turbopack_context__.s({});
+var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$components$2f$Sidebar$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/src/app/components/Sidebar.tsx [app-rsc] (ecmascript)");
 ;
 }}),
 "[project]/src/app/components/index.ts [app-rsc] (ecmascript) <module evaluation>": ((__turbopack_context__) => {

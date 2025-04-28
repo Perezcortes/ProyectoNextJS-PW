@@ -1,5 +1,7 @@
 {
-  "/dashboard/counter/page": "app/dashboard/counter/page.js",
   "/dashboard/main/page": "app/dashboard/main/page.js",
-  "/dashboard/pokemons/page": "app/dashboard/pokemons/page.js"
+  "/dashboard/pokemonv1/page": "app/dashboard/pokemonv1/page.js",
+  "/dashboard/toy/page": "app/dashboard/toy/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/page": "app/page.js"
 }
